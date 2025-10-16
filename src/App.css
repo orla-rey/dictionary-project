@@ -1,8 +1,22 @@
+body {
+    background: #561434;
+}
+
+a {
+    color:#f7b7d6;
+}
+
 .App-header {
   margin: 30px 0;
+  text-align: center;
+  font-size: 48px;
+  text-decoration: underline;
+  color: #FFF2D7;
 }
 
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  font-size: 12px;
+  color: #FFF2D7;
 }
